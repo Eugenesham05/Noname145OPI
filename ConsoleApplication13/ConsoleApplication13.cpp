@@ -14,7 +14,7 @@ int main()
 	int sum = 0;
 	for (int n = 1; n < 4; n++)
 	{
-		sum =cos(sum)+n * x;
+		sum = cos(sum) + n;
 	}
 
 	rez = log(x) + sum;
