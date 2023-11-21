@@ -1,0 +1,4 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\Admin\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(17,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(20,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication13.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication13\x64\Debug\ConsoleApplication13.exe
